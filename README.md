@@ -8,5 +8,6 @@ This program allows users to create training programmes/routines independently o
 For windows users:
 * Download and run the .EXE
 * Alternatively use pyinstaller and the shuttlecock.spec file ensuring that the destination is changed within the .spec file
+
 For linux users:
 * Run the shuttlecock.pyw file from terminal
