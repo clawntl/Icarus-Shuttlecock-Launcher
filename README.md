@@ -4,6 +4,8 @@
 Icarus is a low-cost alternative to other shuttlecock launchers on the market which aims to provide the ability to practise badminton on your own without the need to visit a leisure centre.
 
 This program allows users to create training programmes/routines independently of Icarus.
+
+A video of the project can be seen here [Icarus Shuttlecock Launcher](https://youtu.be/fGZ-fbQ7Iac)
 ## Installation Guide
 For windows users:
 * Download and run the .EXE
